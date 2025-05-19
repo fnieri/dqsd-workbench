@@ -12,7 +12,7 @@ It is recommended to [add the build cache](https://input-output-hk.github.io/has
 to your nix installation to speed up the workbench install.
 
 Although some example juypter notebooks are supplied - it is recommended that
-you clone this repository (dqdq-workbench) in a directory structure that looks
+you clone this repository (dqsd-workbench) in a directory structure that looks
 like:
 
 ```
